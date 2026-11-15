@@ -1,3 +1,4 @@
+//Currency program
 import java.util.Scanner;
 public class Currency {
     public static void main(String[] args){
